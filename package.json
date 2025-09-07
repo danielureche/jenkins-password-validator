@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-password-validator",
+  "version": "1.0.0",
+  "description": "Simple Node.js project to validate passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielureche/jenkins-password-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielureche/jenkins-password-validator/issues"
+  },
+  "homepage": "https://github.com/danielureche/jenkins-password-validator#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
